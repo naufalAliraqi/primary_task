@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainKtTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-05-22T09:01:16" hostname="NAUFAL" time="0.037">
+  <properties/>
+  <testcase name="should_ReturnIncorrect_When_ArrayHaveStringOfNullCharacter()" classname="MainKtTest" time="0.029"/>
+  <testcase name="should_ReturnIncorrect_When_ArrayHaveStringOf_b_LongerThanOneCharacter()" classname="MainKtTest" time="0.001"/>
+  <testcase name="should_ReturnIncorrect_When_ArrayHaveStringOf_a_LongerThanOneCharacter()" classname="MainKtTest" time="0.001"/>
+  <testcase name="should_ReturnIncorrect_When_ArrayHaveStringOfIncorrectCharacter()" classname="MainKtTest" time="0.001"/>
+  <testcase name="should_ReturnCorrectPercentage_When_AllStringsInArrayCorrect()" classname="MainKtTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
